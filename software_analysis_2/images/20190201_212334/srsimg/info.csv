@@ -1,0 +1,6 @@
+color_number,image_number,image_size_x,channel_number,resized_image_size_x,resized_channel_number
+4,11170,122,24,122,72
+thresh_recalc_point,zero_thresh,min_normalize_scale,canny_threshold1,canny_threshold2,momorphology_kernel_size,morphology1st_close_iteration,morphology1st_open_iteration,thresh_recalc_percentage,threshold
+0,0,0,71,140,2,3,3,5,5
+SRS_proc_ver
+fujiwaki-201800921-beads1023

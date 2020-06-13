@@ -1,0 +1,6 @@
+color_number,image_number,image_size_x,channel_number,resized_image_size_x,resized_channel_number
+4,14541,122,24,122,24
+noise_cut_size_top_bottom,noise_cut_size_left_right,min_normalize_scale,canny_threshold1,canny_threshold2,momorphology_kernel_size,morphology1st_close_iteration,morphology1st_open_iteration,morphology2nd_open_iteration,morphology2nd_close_iteration
+0,0,100,0,1500,3,0,1,0,0
+SRS_proc_ver
+fujiwaki-20180411
