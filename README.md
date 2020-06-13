@@ -22,11 +22,11 @@ Please follow the steps below to execute. This process usually takes less than 1
      
 2. Run the built executable. 
 - 3T3-L1 sample
- > $ ./bin/srs_proc ./data/3t3l1 1
+'$ ./bin/srs_proc ./data/3t3l1 1'
 - Chlamydomonas sample
- > $ ./bin/srs_proc ./data/chlamydomonas 2
+'$ ./bin/srs_proc ./data/chlamydomonas 2'
 - Euglena sample
- > $ ./bin/srs_proc ./data/euglena 3
+'$ ./bin/srs_proc ./data/euglena 3'
 
 3. If the code is successfully executed, you will get a result similar to the one illustrated in the "data" folder.For each sample, the results of the sorting decision are recorded in a file named "result_s.csv". 
 
