@@ -42,15 +42,15 @@ These files are the main R code used for graph drawing.
 
 These files hold the condition settings for each experiment, the path to the data, etc. These files are used by the R code to access the data.
 
--"S5-functions_04s.R"
+- "S5-functions_04s.R"
 
 This file contains the functions referenced by the main R code.
 
-- [Folder:"images"]
+- Folder:"images"
 
 This folder contains the measurement data for each experiment.
 
-- [Folder:"output"]
+- Folder:"output"
 
 This folder shows examples of screenshots after the analysis software is executed.
 
