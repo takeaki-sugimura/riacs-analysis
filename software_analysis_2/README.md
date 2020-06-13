@@ -21,7 +21,7 @@ Please follow the steps below to install. This process usually takes less than 5
 > setwd("C:/RIACS/software_analysis_2")
 
 
-#Contents
+# Contents
  
 The unzipped folder contains the following files and folders.
 
