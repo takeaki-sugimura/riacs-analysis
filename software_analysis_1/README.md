@@ -1,4 +1,4 @@
-This file explains how to install and execute the sort/unsort decsion making software used in the manuscript Raman image-activated cell sorting" for the offline test.  
+This file explains how to install and execute the sort/unsort decsion making software used in the manuscript "Raman image-activated cell sorting" for the offline test.  
 
 
 # System requirements
